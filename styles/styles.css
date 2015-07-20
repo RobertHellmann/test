@@ -1,0 +1,38 @@
+html, body {
+    min-height: 100%;
+}
+
+body {
+    background: url( http://cms.philippebujakiewicz.de/wp-content/uploads/innen_restaurant.png ) center center no-repeat;
+    background-size: cover;
+}
+
+
+
+.navigation-main {
+	margin-top: 300px;
+	text-decoration: none;
+	background: gray;
+	border: none;
+}
+
+.nav-tabs {
+    float: left;
+    list-style: none;
+    position: relative;
+    left: 50%;
+    text-align: center;
+}
+
+ .nav-tabs > li {
+   	display: block;
+    position: relative;
+    right: 50%;
+    text-align: center;
+}
+
+h1 {
+	color: white;
+	float: left;
+	text-decoration: none;
+}
