@@ -8,31 +8,30 @@ body {
 }
 
 
+.container {
+	max-width: 800px;
+}
 
 .navigation-main {
+	max-width: 800px;
+	margin: 0px auto;
 	margin-top: 300px;
 	text-decoration: none;
-	background: gray;
+	background: white;
 	border: none;
-}
-
-.nav-tabs {
-    float: left;
-    list-style: none;
-    position: relative;
-    left: 50%;
-    text-align: center;
-}
-
- .nav-tabs > li {
-   	display: block;
-    position: relative;
-    right: 50%;
-    text-align: center;
 }
 
 h1 {
 	color: white;
-	float: left;
 	text-decoration: none;
+}
+
+
+.imgresp {
+	width: 100%;
+	height: auto;
+}
+
+a {
+	color: black;
 }

@@ -15,28 +15,21 @@
 	</head>
 	<body>
 
-		<div class="container">
 
-			<div class="logo logo-main">
-				<img src="">
-			</div>
 
-			
-			<div class="navigation navigation-main">
-				<nav class="menu menu-main">
-					<ul class="nav nav-tabs nav-justified">
-					  <li role="presentation"><a href="#">Home</a></li>
-					  <li role="presentation"><a href="#">Über Uns</a></li>
-					  <li role="presentation"><a href="#">Services</a></li>
-					  <li role="presentation"><a href="#">Maps</a></li>
-					</ul>
-				</nav>
-			</div>
-			
-			<div class="content content-main">
-				<img src="images/images/banner.jpg" class="imgresp banner banner-main">
-			</div>	
-
+		<div class="logo logo-main">
+			<img src="">
+		</div>	
+	
+		<div class="navigation navigation-main">
+			<nav class="menu menu-main">
+				<ul class="nav nav-tabs">
+				  <li role="presentation"><a href="#">Home</a></li>
+				  <li role="presentation"><a href="#">Über Uns</a></li>
+				  <li role="presentation"><a href="#">Services</a></li>
+				  <li role="presentation"><a href="#">Maps</a></li>
+				</ul>
+			</nav>
 		</div>
 
 		
